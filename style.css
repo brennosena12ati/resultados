@@ -114,7 +114,7 @@ body{
 }
 
 .resumo_memoria {
-    backgroung: var(--memoria-bg) var(--resumo-div-bg);
+    background: var(--memoria-bg) var(--resumo-div-bg);
     color: var(--memoria-bg);
 }
 
